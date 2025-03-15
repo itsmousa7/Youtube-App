@@ -1,0 +1,62 @@
+import 'videosclass.dart';
+
+class Videoslist
+
+{
+
+
+  List<Videosclass> videolist = [
+
+    Videosclass(
+      "VqyX-bOa8Fg",
+      "https://i.ytimg.com/vi/VqyX-bOa8Fg/hqdefault.jpg?sqp=-oaymwExCOADEI4CSFryq4qpAyMIARUAAIhCGAHwAQH4Af4JgALQBYoCDAgAEAEYZSBkKD4wDw==&rs=AOn4CLBJc2Rn4qPblnBRtdx--GYiYTduxA",
+      "2023 | Rabeh Saqer - Ant Awal",
+      "https://yt3.ggpht.com/ytc/AIdro_l3BeCRQvUmHd5Zp7VSZP73c74qOFUrAWGCtDtiPZD_s_o=s88-c-k-c0x00ffffff-no-rj",
+      "Rabeh Saqer | 631K views . 1 year ago",
+      "Rabeh Saqer",
+          "637K views 1y ago",
+          "534K",
+        " 9.2k "
+
+    ),
+    Videosclass(
+      "01C6_7CfQx4",
+      "https://i.ytimg.com/vi/01C6_7CfQx4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDJy6vrYS_sSCNq7_Ltx_WfzarxUw",
+      "راشد الماجد - #ولهان (النسخة الأصلية) | 2020",
+      "https://yt3.ggpht.com/7gNe5wpzp0xInDS6pMW6ATwSe9aL2JZTUASKjj3OzkGWlCp0scZLt__WpU4I_JaoSF9d1ppZYA=s88-c-k-c0x00ffffff-no-rj",
+      "Rashed AlMajid | 158M views . 4 years ago",
+      "Rashed AlMajid",
+          "10M views 1y ago",
+          "11M",
+        " 952k "
+
+    ),
+
+    Videosclass(
+      "phT_tK5D8nI",
+      "https://i.ytimg.com/vi/phT_tK5D8nI/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqCYrwKA7XOZ7QjqHP2GjD2R5dGw",
+      "راشد الماجد وماجد المهندس - تناديك (جلسات وناسه) | 2017",
+      "https://yt3.ggpht.com/d6D6bxHvD8UQUMwHfIczskgtEzXiWk4d2YUo8oMJBMIpRm3NQLsLAO88biM9yDTGMLMb3a9r3Bs=s88-c-k-c0x00ffffff-no-rj",
+      "Tunes Arabia 29M views . 6 years ago",
+      "Tunes Arabia",
+          "20M views 1y ago",
+          "5M",
+        " 500k "
+    ),
+
+    Videosclass(
+      "8cYsWa-yAKo",
+      "https://i.ytimg.com/an_webp/8cYsWa-yAKo/mqdefault_6s.webp?du=3000&sqp=CKaYhLkG&rs=AOn4CLAhB4L6p_z8dr9HIqYvEXcFkAoCFQ",
+      "Pagani Huayra Codalunga أغلى سيارة جربناها | باجاني وايرا كودالونجا",
+      "https://yt3.googleusercontent.com/fXpsMso-tVc1h6vVfwZwa4xgs2oUo4EFW39KSM7H5W7kTZtzjJvQd5CuJzwj_ZLYcQg-mZrvFe4=s176-c-k-c0x00ffffff-no-rj-mo",
+      "TestDrive | 500K views . 2 months ago",
+      "Arab GT",
+          "337K views 1y ago",
+          "3.78M",
+        " 20k "
+    ),
+
+
+
+  ];
+}

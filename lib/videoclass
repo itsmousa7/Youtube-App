@@ -1,0 +1,27 @@
+class Videosclass
+{
+  late String videoId;
+  late String imageId;
+  late String text;
+  late String profimage;
+  late String info;
+  late String channelname;
+  late String views;
+  late String subscription;
+  late String likes;
+
+
+  Videosclass(String vid, String iid, String t, String pi, String inf,String chname,String view,String subs,String like)
+  {
+    videoId =  vid;
+    imageId = iid;
+    text    = t;
+    profimage = pi;
+    info = inf;
+    channelname = chname;
+    views = view;
+    subscription = subs;
+    likes = like;
+
+  }
+}
